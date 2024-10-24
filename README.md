@@ -13,4 +13,4 @@ The fish species classification problem is solved with a dataset consisting of 9
 This project was developed using the Python programming language and various machine learning libraries. TensorFlow and Keras libraries were used to create and train the model. Additionally, Numpy and Pandas were used for data manipulation, while Matplotlib was used to visualize the results. Scikit-learn library was used to evaluate the performance of the model.
 
 
-Kaggle Link: https://www.kaggle.com/code/efeyilmaztasyurek/fish-classification-ann
+Kaggle Notebook Link: https://www.kaggle.com/code/efeyilmaztasyurek/fish-classification-ann
